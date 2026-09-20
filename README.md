@@ -79,3 +79,4 @@ slip_4.jpg
 slip_5.jpg
 
 The extracted slips are separated from the original combined image using their detected borders.
+https://colab.research.google.com/drive/1OdWZluOIAj5vj5EuP3dLZJlh_iUO46Za?usp=sharing
